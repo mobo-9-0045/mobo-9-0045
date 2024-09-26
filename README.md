@@ -1,7 +1,12 @@
 [![aomman's 42 stats](https://badge.mediaplus.ma/levi/aomman)](https://github.com/oakoudad/badge42)
 
-Technologies:
+Tech Stack:
+- [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp)](https://skillicons.dev)
+
+State:
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobo-9-0045&show_icons=true&theme=merko)
+- 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobo-9-0045&layout=compact )
