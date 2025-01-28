@@ -3,7 +3,7 @@
 Tech Stack:
 - [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java,nodejs,react)](https://skillicons.dev)
 
-- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp,kubernetesnuxtjs,ngnix)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp,kubernetes,ngnix)](https://skillicons.dev)
 
 
 State:
