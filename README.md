@@ -1,9 +1,9 @@
 [![aomman's 42 stats](https://badge.mediaplus.ma/levi/aomman)](https://github.com/oakoudad/badge42)
 
 Tech Stack:
-- [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java,nodejs,react)](https://skillicons.dev)
 
-- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp,kubernetesnuxtjs,ngnix)](https://skillicons.dev)
 
 
 State:
